@@ -30,5 +30,5 @@ In style.css and html,
 Screenshots:
 
 ![Final-output-screen](https://github.com/jyothybaby/03--Password-Generator/blob/main/Screenshots/passowrd-generator-screen3.png?raw=true)<br>
-![Screen-2]https://github.com/jyothybaby/03--Password-Generator/blob/main/Screenshots/passowrd-generator-screen2.png?raw=true)<br>
-![Screen-3]https://github.com/jyothybaby/03--Password-Generator/blob/main/Screenshots/password-generator-screen1.png?raw=true)<br>
+![Screen-2](https://github.com/jyothybaby/03--Password-Generator/blob/main/Screenshots/password-generator-%20screen2.png?raw=true)<br>
+![Screen-3](https://github.com/jyothybaby/03--Password-Generator/blob/main/Screenshots/password-generator-screen1.png?raw=true)<br>
