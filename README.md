@@ -1,10 +1,9 @@
-# 03--Password-Generator
-
 <b># 03--Password-Generator</b><br>
-This folder contains the html and CSS files for Portfolio homework.
+
+This folder contains the index.html, style.css and script.js for Password generator homework. I have included all screenshorts in "Screenshots" folder. Script.js contain the JavaScript program.
 Work I have done for this project is:
 
-In script.js,
+In script.js, 
 1. All arrays initilized for random extraction.
 2. In this program, I have used 2 functions for performing the operations. 
     a. inputCollection();
@@ -19,7 +18,7 @@ In script.js,
 
 In style.css and html,
 1. No change on these files.
-2. Style .css moved into "assets" folder.
+2. Style .css fils is in the  "assets" folder.
 
 <b>Links for the project:</b><br>
 
