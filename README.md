@@ -23,10 +23,12 @@ In style.css and html,
 
 <b>Links for the project:</b><br>
 
-1. GitHub repository URL: https://github.com/jyothybaby/02-Portfolio
-2. Live Webpage: https://jyothybaby.github.io/02-Portfolio/
-3. Google Drive: https://drive.google.com/drive/folders/1mXIJg6KPbfGRqtD0ccGS7OhlIUaQihLV?usp=sharing
-
+1. GitHub repository URL: https://github.com/jyothybaby/03--Password-Generator
+2. Live Webpage: https://jyothybaby.github.io/03--Password-Generator/
+ 
 
 Screenshots:
 
+![Final-output-screen](https://github.com/jyothybaby/03--Password-Generator/blob/main/Screenshots/passowrd-generator-screen3.png?raw=true)
+![Screen-2]https://github.com/jyothybaby/03--Password-Generator/blob/main/Screenshots/password-generator-%20screen2.png?raw=true)
+![Screen-3]https://github.com/jyothybaby/03--Password-Generator/blob/main/Screenshots/password-generator-screen1.png?raw=true)
