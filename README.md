@@ -5,7 +5,7 @@ This folder contains the html and CSS files for Portfolio homework.
 Work I have done for this project is:
 
 In script.js,
-1. All arrays initilized for random extraction.\
+1. All arrays initilized for random extraction.
 2. In this program, I have used 2 functions for performing the operations. 
     a. inputCollection();
     b. generatePassword();
@@ -25,6 +25,7 @@ In style.css and html,
 
 1. GitHub repository URL: https://github.com/jyothybaby/03--Password-Generator
 2. Live Webpage: https://jyothybaby.github.io/03--Password-Generator/
+3. Google Drive: https://drive.google.com/drive/folders/1DVZeBl2ztsyV06-3loh3WEq9QxkaV5GD?usp=sharing
  
 
 Screenshots:
